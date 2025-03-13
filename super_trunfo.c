@@ -77,5 +77,6 @@ int main()
         printf("Comparação de cartas (Atributo: Área): \nCarta 1 - %s: %f\nCarta 2 - %s: %f\n", estado1, area1, estado2, area2);
         printf("Resultado: Carta 2 (%s) venceu!\n", estado2);
     }
+
     return 0;
 }
